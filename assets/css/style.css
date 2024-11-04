@@ -860,6 +860,7 @@ textarea.contact-input {
    */
 
   .hero .container {
+    padding: 40px 0;
     display: grid;
     grid-template-columns: 1fr 1fr;
     align-items: center;
